@@ -92,8 +92,6 @@ The video walkthrough explains:
 
 ## ⚙️ How to Run
 
-## ⚙️ How to Run
-
 1. **Download or Clone** this project from  
    [GitHub Repository](https://github.com/shobithramesh/Inventory-Management-System-)  
 
