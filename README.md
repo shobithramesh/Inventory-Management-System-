@@ -2,7 +2,6 @@
 
 This is a **desktop Inventory Management System** built with **Python Tkinter** and a **PostgreSQL database**, designed to let **Admins** and **Employees** manage products, sales, purchases, users, and issues through a clean sidebar-based interface with real-time analytics and charts.
 
----
 
 ## 🚀 Features
 
@@ -33,7 +32,6 @@ This is a **desktop Inventory Management System** built with **Python Tkinter** 
 - Displays unread items with alert badges.
 - Editable user settings and secure logout.
 
----
 
 ## 🧱 Built With
 
@@ -47,7 +45,6 @@ This is a **desktop Inventory Management System** built with **Python Tkinter** 
 | **Data Handling / Export** | Pandas |
 | **UI Design Style** | Minimal Sidebar Dashboard (Custom Tkinter Frames) |
 
----
 
 ## 📂 Database Tables
 - **products** – product_id, product_name, category, price, quantity  
@@ -57,7 +54,6 @@ This is a **desktop Inventory Management System** built with **Python Tkinter** 
 - **employees** – employee_id, name, email, password, role  
 - **admin_notifications**, **contact_issues**
 
----
 
 ## 🖼️ UI Overview
 
@@ -80,11 +76,10 @@ This is a **desktop Inventory Management System** built with **Python Tkinter** 
 ### Contact Page
 <img width="1919" height="1017" alt="Screenshot 2025-10-22 210101" src="https://github.com/user-attachments/assets/4bc676bb-076c-4cc4-81a0-a2b705c62448" />
 
----
 
 ## 🎥 Presentation Video
 
-- <a href="[https://drive.google.com/file/d/1Fx4O0IqC2_2oBF-Wvkj53GwBSYF5K8rl/view?usp=sharing](https://youtu.be/C4sS37TT3NA)">Watch the Presentation here</a>
+- <a href="https://youtu.be/C4sS37TT3NA?si=qnMSLTuvKGW8IUdA">Watch the Presentation here</a>
 
 The video walkthrough explains:
 - App navigation (Login → Dashboard → Inventory → Sales → Purchase)
@@ -92,7 +87,6 @@ The video walkthrough explains:
 - Dashboard analytics (Top Products, Revenue vs Expenses)
 - Smart search and notifications in action
 
----
 
 ## ⚙️ How to Run
 
@@ -101,7 +95,6 @@ The video walkthrough explains:
    git clone https://github.com/<your-username>/inventory-management-system-tkinter.git
    cd inventory-management-system-tkinter
 
----
 
 ## 🗣️ Let’s Talk
 
@@ -110,5 +103,5 @@ I’d love to connect and discuss tech, data, and product ideas!
 ** Shobith Ramesh**  
 Navi Mumbai, India  
 
-🔗 [LinkedIn](https://www.linkedin.com/in/shobith-ramesh)  
+🔗 [LinkedIn](https://www.linkedin.com/in/shobithramesh)  
 📫 shobithramesh96@gmail.com  
