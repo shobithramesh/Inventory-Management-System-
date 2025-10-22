@@ -102,7 +102,7 @@ The video walkthrough explains:
 
 I’d love to connect and discuss tech, data, and product ideas!
 
-** Shobith Ramesh**  
+### Shobith Ramesh
 Navi Mumbai, India  
 
 🔗 [LinkedIn](https://www.linkedin.com/in/shobithramesh)  
