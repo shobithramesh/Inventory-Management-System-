@@ -92,10 +92,18 @@ The video walkthrough explains:
 
 ## ⚙️ How to Run
 
-1. **Clone this repository**
-   ```bash
-   git clone https://github.com/shobithramesh/Inventory-Management-System-.git
-   cd Inventory-Management-System-
+## ⚙️ How to Run
+
+1. **Download or Clone** this project from  
+   [GitHub Repository](https://github.com/shobithramesh/Inventory-Management-System-)  
+
+2. **Set up your PostgreSQL database**  
+   - Create a database named **inventory_db** (or the same name used in the code).  
+   - Make sure PostgreSQL is running on your system.
+
+3. **Open IMS.py** in any Python IDE (like PyCharm, VS Code, or IDLE).
+
+4. **Run the program** and log in using the demo Admin credentials provided in the code.
 
 
 ## 🗣️ Let’s Talk
