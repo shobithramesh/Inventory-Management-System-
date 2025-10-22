@@ -33,6 +33,7 @@ This is a **desktop Inventory Management System** built with **Python Tkinter** 
 - Editable user settings and secure logout.
 
 
+
 ## 🧱 Built With
 
 | Component | Technology |
@@ -44,6 +45,7 @@ This is a **desktop Inventory Management System** built with **Python Tkinter** 
 | **Analytics & Charts** | Matplotlib |
 | **Data Handling / Export** | Pandas |
 | **UI Design Style** | Minimal Sidebar Dashboard (Custom Tkinter Frames) |
+
 
 
 ## 📂 Database Tables
@@ -92,8 +94,8 @@ The video walkthrough explains:
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/<your-username>/inventory-management-system-tkinter.git
-   cd inventory-management-system-tkinter
+   git clone https://github.com/shobithramesh/Inventory-Management-System-.git
+   cd Inventory-Management-System-
 
 
 ## 🗣️ Let’s Talk
